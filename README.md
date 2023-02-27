@@ -1,2 +1,3 @@
 # Movie-recommendation-system
 Movie recommendation system: from code to hugging face
+The recommendation system is an artificial intelligence (AI) technique that provides personalized recommendations to users based on their preferences, behavior, and past interactions. These systems use various algorithms and techniques to analyze user data and predict which items, products, or services a user is most likely to be interested in. Recommendation systems are commonly used in e-commerce, online advertising, streaming platforms, social media, and other domains where personalized content or product suggestions are valuable to users.
