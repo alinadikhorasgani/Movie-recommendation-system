@@ -7,4 +7,5 @@ Collaborative filtering recommendation system: This system relies on the prefere
 In this post I create a content base recommendation system to suggest movies Based on your interests and describe it for you.
 ![88506recommendation system](https://user-images.githubusercontent.com/90984806/221484196-7abb823f-ffee-41f0-b425-ce4fe099af9d.png)
 I explained this project in medium: https://medium.com/@alinadi1176/movie-recommendation-system-from-code-to-hugging-face-d1ba9f318964
+
 Also you can use this code to find your favorite movies: https://huggingface.co/spaces/Alinadi98/movie_recommendation_system
